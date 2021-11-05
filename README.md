@@ -1,7 +1,7 @@
 - 👋 Hi, I’m junior web developer!
 - 👀 I’m interested in fullstack
 - 🌱 I’m currently learning Django, CSS, HTML
-- 💞️ I’m looming for people to work on interesting projects together
+- 💞️ I’m looking for people to work on interesting projects together
 - 📫 How to reach me: vladislavac74@gmail.com
 
 <!---
