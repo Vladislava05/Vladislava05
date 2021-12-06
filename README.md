@@ -15,11 +15,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on my opensource project TaskMaster
+- 🔭 I’m currently working on my opensource project <a href="https://github.com/Vladislava05/TaskMaster"> TaskMaster</a>
 
 - 🌱 I’m currently learning Django 
 
-- 👯 I’m looking to collaborate on TaskMaster 
+- 👯 I’m looking to collaborate on <a href="https://github.com/Vladislava05/TaskMaster"> TaskMaster</a>
 
 - 💬 Talk to me about Python, Django,
 
