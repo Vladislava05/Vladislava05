@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on <a href="https://github.com/Vladislava05/TaskMaster"> TaskMaster</a>
 
-- 💬 Talk to me about Python, Django,
+- 💬 Talk to me about Python, Django
 
 
 <p align="left">
