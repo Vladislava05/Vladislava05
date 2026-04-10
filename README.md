@@ -17,11 +17,11 @@
 
 - 🔭 I’m currently working on my opensource projects
 
-- 🌱 I’m currently learning Kotlin 
+- 🌱 I’m currently learning ML and JS 
 
-- 👯 I’m looking to collaborate on developing new apps
+- 👯 I’m looking to collaborate on developing new projects
 
-- 💬 Talk to me about Android, Kotlin
+- 💬 Talk to me about everything
 
 
 <p align="left">
