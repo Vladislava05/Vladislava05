@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladislava</h1>
-<h3 align="center">A passionate junior android developer</h3>
+<h3 align="center">A passionate junior CV engineer and frontend-developer (what a combo?!) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vladislava05&label=Profile%20views&color=0e75b6&style=flat" alt="vladislava05" /> </p>
 
